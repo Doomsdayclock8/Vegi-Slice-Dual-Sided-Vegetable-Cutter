@@ -1,6 +1,7 @@
 # Vegi-Slice-Dual-Sided-Vegetable-Cutter
 This repository Contains the contents of the project titled "VegiSlice: Dual Sided Vegetable Cutter" which has been developed as part of the Product Design II Sessional (IPE 318) at Bangladesh University of Engineering and Technology (BUET). This project emphasizes mechanical innovation, user-centered design, and manufacturability.
-<img width="681" height="428" alt="image" src="https://github.com/user-attachments/assets/fec08d24-d348-4515-95ac-7cb2e51cea38" />
+<img width="681" height="428" alt="image" src="https://github.com/user-attachments/assets/fec08d24-d348-4515-95ac-7cb2e51cea38" /> <img width="721" height="464" alt="image" src="https://github.com/user-attachments/assets/b47f43cd-9998-4d91-b9c0-9a99ce824dbe" />
+
 
 # 🎯 Objectives
 
@@ -29,12 +30,15 @@ Enhanced Safety: Reduces the risk of hand injuries compared to conventional cutt
 Customer-Centric Design: Based on extensive surveys across homemakers, jobholders, students, and restauranteurs.
 
 Quality Function Deployment (QFD): Integrated customer voice into engineering specifications.
+<img width="739" height="588" alt="image" src="https://github.com/user-attachments/assets/00c66161-121c-462e-b380-fb1be0a39c4c" />
 
 Functional Decomposition: Systematically analyzed for modular design and maintainability.
+<img width="857" height="601" alt="image" src="https://github.com/user-attachments/assets/f49fd9a5-a213-4a20-89b9-5f152e05d100" />
 
 Material Selection: Optimized using both qualitative and quantitative (weighted average) methods.
 
 Structural Analysis (ANSYS): Verified strength, durability, and safety of critical components.
+<img width="1881" height="928" alt="image" src="https://github.com/user-attachments/assets/41cf148e-002e-4a83-b6eb-762aa7e76965" />
 
 Cost & Sensitivity Analysis: Evaluated feasibility for mass production with break-even and sensitivity models.
 
