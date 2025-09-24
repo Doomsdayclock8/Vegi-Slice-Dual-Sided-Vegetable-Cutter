@@ -35,3 +35,23 @@ Material Selection: Optimized using both qualitative and quantitative (weighted 
 Structural Analysis (ANSYS): Verified strength, durability, and safety of critical components.
 
 Cost & Sensitivity Analysis: Evaluated feasibility for mass production with break-even and sensitivity models.
+
+👨‍💻 Contributors
+
+Group A23 – BUET, Department of Industrial & Production Engineering
+
+Aniqa Tahsin (1908039)
+
+Md. Tawfique Ihsan (1908040)
+
+Shakil Ahmed (1908041)
+
+Mohiuddin Adnan (1908042)
+
+Sadat Iqbal Priom (1908043)
+
+Md. Rabby Shajin Islam (1908044)
+
+📜 License
+
+This project was developed as part of an academic course. All rights reserved by the Department of Industrial and Production Engineering, BUET. Unauthorized reproduction without prior permission is prohibited.
