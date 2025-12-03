@@ -1,6 +1,8 @@
 # Vegi-Slice-Dual-Sided-Vegetable-Cutter
 This repository Contains the contents of the project titled "VegiSlice: Dual Sided Vegetable Cutter" which has been developed as part of the Product Design II Sessional (IPE 318) at Bangladesh University of Engineering and Technology (BUET). This project emphasizes mechanical innovation, user-centered design, and manufacturability.
 <img width="681" height="428" alt="image" src="https://github.com/user-attachments/assets/fec08d24-d348-4515-95ac-7cb2e51cea38" /> <img width="721" height="464" alt="image" src="https://github.com/user-attachments/assets/b47f43cd-9998-4d91-b9c0-9a99ce824dbe" />
+![Uploading Dual Sided Vegetable Cutter.gif…]()
+
 
 
 # 🎯 Objectives
